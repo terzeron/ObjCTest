@@ -13,8 +13,8 @@ int main(int argc, const char * argv[])
 {
     @autoreleasepool {
         Person* person = [[Person alloc] init];
-        person.firstName = @"Obama";
-        person.lastName = @"Barrack";
+        person.firstName = @"James";
+        person.lastName = @"Dean";
         person.adult = YES;
         NSLog(@"%@ %d", person.fullName, person.isAdult);
     }
