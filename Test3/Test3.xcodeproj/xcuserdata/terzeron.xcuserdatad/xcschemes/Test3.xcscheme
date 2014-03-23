@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D2830B6A18DDCAE8001A7592"
-               BuildableName = "Test1"
-               BlueprintName = "Test1"
-               ReferencedContainer = "container:Test1.xcodeproj">
+               BlueprintIdentifier = "D2E7391818DF0F8000BB8674"
+               BuildableName = "Test3"
+               BlueprintName = "Test3"
+               ReferencedContainer = "container:Test3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2830B6A18DDCAE8001A7592"
-            BuildableName = "Test1"
-            BlueprintName = "Test1"
-            ReferencedContainer = "container:Test1.xcodeproj">
+            BlueprintIdentifier = "D2E7391818DF0F8000BB8674"
+            BuildableName = "Test3"
+            BlueprintName = "Test3"
+            ReferencedContainer = "container:Test3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2830B6A18DDCAE8001A7592"
-            BuildableName = "Test1"
-            BlueprintName = "Test1"
-            ReferencedContainer = "container:Test1.xcodeproj">
+            BlueprintIdentifier = "D2E7391818DF0F8000BB8674"
+            BuildableName = "Test3"
+            BlueprintName = "Test3"
+            ReferencedContainer = "container:Test3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2830B6A18DDCAE8001A7592"
-            BuildableName = "Test1"
-            BlueprintName = "Test1"
-            ReferencedContainer = "container:Test1.xcodeproj">
+            BlueprintIdentifier = "D2E7391818DF0F8000BB8674"
+            BuildableName = "Test3"
+            BlueprintName = "Test3"
+            ReferencedContainer = "container:Test3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
