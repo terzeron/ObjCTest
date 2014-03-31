@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>9717309A-8C29-4A3D-A5B9-611FCA832EA6</string>
+	<string>FA10381B-0CF5-4F4C-929E-71E8D8A7496C</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Test3</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5D5EC958-0400-496F-A467-3390F72564E1</key>
+		<key>38E36884-026F-471A-9548-75529E005A24</key>
 		<string>https://github.com/terzeron/ObjCTest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Test3/Test3.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5D5EC958-0400-496F-A467-3390F72564E1</key>
+		<key>38E36884-026F-471A-9548-75529E005A24</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5D5EC958-0400-496F-A467-3390F72564E1</string>
+	<string>38E36884-026F-471A-9548-75529E005A24</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5D5EC958-0400-496F-A467-3390F72564E1</string>
+			<string>38E36884-026F-471A-9548-75529E005A24</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ObjCTest</string>
 		</dict>

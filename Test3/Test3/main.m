@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "Person.h"
+#import "Character.h"
 
 
 //
@@ -113,6 +114,19 @@ int main(int argc, const char * argv[])
         person.lastName = @"Dean";
         person.adult = YES;
         NSLog(@"%@ %d", person.fullName, person.isAdult);
+        
+        //
+        // protocol
+        //
+        Character* chr1 = [[Character alloc] init];
+        chr1.age = 20.5;
+        chr1.health = 100;
+        chr1.healthInfo = @{ @"BMI": @20, @"blood sugar level": @89 };
+        Character* chr2 = [[Character alloc] init];
+        chr2.age = 32.3;
+        chr2.health = 90;
+        chr2.healthInfo = @{@"BMI": @27, @"blood sugar level": @105 };
+        [chr1 sendMessage: @"hello" to: chr2];
     }
     return 0;
 }

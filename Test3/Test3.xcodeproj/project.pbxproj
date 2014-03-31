@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D2A682E318E29FAE0059346C /* Thing.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A682E218E29FAE0059346C /* Thing.m */; };
+		D2A682E618E29FE60059346C /* Character.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A682E518E29FE60059346C /* Character.m */; };
 		D2E7391D18DF0F8000BB8674 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D2E7391C18DF0F8000BB8674 /* Foundation.framework */; };
 		D2E7392018DF0F8000BB8674 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D2E7391F18DF0F8000BB8674 /* main.m */; };
 		D2E7392418DF0F8000BB8674 /* Test3.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = D2E7392318DF0F8000BB8674 /* Test3.1 */; };
@@ -27,6 +29,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D2A682DE18E29EDA0059346C /* Living.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Living.h; sourceTree = "<group>"; };
+		D2A682DF18E29EFE0059346C /* Communicating.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Communicating.h; sourceTree = "<group>"; };
+		D2A682E018E29F690059346C /* Storing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Storing.h; sourceTree = "<group>"; };
+		D2A682E118E29FAE0059346C /* Thing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Thing.h; sourceTree = "<group>"; };
+		D2A682E218E29FAE0059346C /* Thing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Thing.m; sourceTree = "<group>"; };
+		D2A682E418E29FE60059346C /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Character.h; sourceTree = "<group>"; };
+		D2A682E518E29FE60059346C /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Character.m; sourceTree = "<group>"; };
 		D2E7391918DF0F8000BB8674 /* Test3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Test3; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2E7391C18DF0F8000BB8674 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D2E7391F18DF0F8000BB8674 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,6 +90,13 @@
 				D2E7392118DF0F8000BB8674 /* Supporting Files */,
 				D2E7392A18DF105400BB8674 /* Person.h */,
 				D2E7392B18DF105400BB8674 /* Person.m */,
+				D2A682DE18E29EDA0059346C /* Living.h */,
+				D2A682DF18E29EFE0059346C /* Communicating.h */,
+				D2A682E018E29F690059346C /* Storing.h */,
+				D2A682E118E29FAE0059346C /* Thing.h */,
+				D2A682E218E29FAE0059346C /* Thing.m */,
+				D2A682E418E29FE60059346C /* Character.h */,
+				D2A682E518E29FE60059346C /* Character.m */,
 			);
 			path = Test3;
 			sourceTree = "<group>";
@@ -144,8 +160,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2A682E318E29FAE0059346C /* Thing.m in Sources */,
 				D2E7392C18DF105400BB8674 /* Person.m in Sources */,
 				D2E7392018DF0F8000BB8674 /* main.m in Sources */,
+				D2A682E618E29FE60059346C /* Character.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +277,7 @@
 				D2E7392918DF0F8000BB8674 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
